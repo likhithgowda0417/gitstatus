@@ -1,0 +1,6 @@
+##first edit line local
+#git@github.com:likhithgowda0417/gitstatus.git
+#git init
+#git config --list
+#git add text.txt
+#git add .

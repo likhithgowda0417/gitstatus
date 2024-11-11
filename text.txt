@@ -4,3 +4,4 @@
 #git config --list
 #git add text.txt
 #git add .
+#git remote add origin git@github.com:likhithgowda0417/gitstatus.git
